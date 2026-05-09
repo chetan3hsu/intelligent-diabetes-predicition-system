@@ -1,4 +1,4 @@
-# Comapartive Machine Learning Analyasis for Diabetes Predicition
+# Comparative Machine Learning Analysis for Diabetes Predicition
 
 ## Overview
 
