@@ -23,7 +23,7 @@ This project presents a comaparative analysis of multiple machine learning algor
 
 ## Results
 
-Among all the evaluated classifiers, XGBoost achieved the best overall performance with the highest ROC_AUC score, along with better performance in other evaluation metrics, demonstrating superior capability in distinguishing diabetic and non-diabetic patients.
+Among all the evaluated classifiers, Logistic Regression achieved the best overall performance with the highest ROC_AUC score, along with better performance in other evaluation metrics, demonstrating superior capability in distinguishing diabetic and non-diabetic patients.
 
 ## Dataset
 
